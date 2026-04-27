@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.zip
+*.pt
+train_stats/
+Dataset/
+TestImages/
+ENV_SETUP/
